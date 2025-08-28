@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs,ExpressJs,NextJs,MonGoDB**
 
-- 📫 How to reach me **biswaspankaj1703@gmail.com**
+- 📫 How to reach me **pankajbiswasorginal@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
